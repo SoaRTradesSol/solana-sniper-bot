@@ -1,4 +1,4 @@
-![Banner](soarlogo.png)
+![Banner](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/soarlogo.png)
 
 ## SOAR TRADES V1.0
 
@@ -42,7 +42,7 @@ First step:
 > # Installation 🔗
 >
 >
-> [1] ```git clone https://github.com/name/solana-sniper-bot```
+> [1] ```git clone https://github.com/SoaRTradesSol/solana-sniper-bot```
 > 
 >[2] ```cd solana-sniper-bot-main```
 > 
@@ -69,9 +69,9 @@ First step:
 13. `STOP_LOSS=30` (in %)
 14. `BIRDEYE_APIKEY=` get here: https://docs.birdeye.so/docs/authentication-api-keys
 
-![](bot.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/bot.png)
 
-![](botsnipe.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/botsnipe.png)
 
 
 ## Auto Sell 📈
@@ -107,7 +107,7 @@ You can update the list while script is running. Script will check for new value
 > `Error: No SOL token account found in wallet: `  
 > it means that your wallet not have USDC/WSOL token account.
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
-> ![](jupiter.png)
+> ![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/jupiter.png)
 
 ## Help 📮
 Discord: @botsoar
