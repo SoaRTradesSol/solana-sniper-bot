@@ -1,4 +1,4 @@
-![](readme/soarlogo.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/soarlogo.png)
 
 **SoaR Sniper Bot** that listens to new Raydium pools and buys tokens for a fixed amount in WSOL.
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on UI for swapping.
@@ -23,7 +23,7 @@ To run the script you need to:
 
 `Jupiter Wrap` : https://jup.ag/
 
-![](readme/jupiter.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/jupiter.png)
 
 ## CONFIG
 1. Configure the script by updating `.env.example` file (**remove the .example from the file name when done**).
@@ -47,9 +47,9 @@ To run the script you need to:
 1. Install dependencies by typing: `npm install`
 2. Run the script by typing: `npm run buy` in terminal
 
-![](readme/bot.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/bot.png)
 
-![](readme/botsnipe.png)
+![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/botsnipe.png)
 
 ## TAKE PROFIT
 
