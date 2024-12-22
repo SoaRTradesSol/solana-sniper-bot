@@ -26,7 +26,7 @@ To run the script you need to:
 ![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/jupiter.png)
 
 ## CONFIG
-1. Configure the script by updating `.env.example` file (**remove the .example from the file name when done**).
+1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
 2. `PRIVATE_KEY` (your wallet private key)
 3. `RPC_ENDPOINT` (https RPC endpoint) 
 4. `RPC_WEBSOCKET_ENDPOINT` (websocket RPC endpoint)
