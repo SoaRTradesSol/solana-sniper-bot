@@ -16,7 +16,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 ## SETUP
 To run the script you need to:
-1. Download and extract the repository files: Use the command "git clone https://github.com/" or click the green "Code" button and select "Download ZIP".
+1. Download and extract the repository files: Use the command "git clone https://github.com/SoaRTradesSol/solana-sniper-bot" or click the green "Code" button and select "Download ZIP".
 2. Install the Node.js environment on your computer : https://nodejs.org/en
 3. The runtime environment should be a terminal or VSCode. Detailed steps are provided below, please read carefully.
 4. Convert some SOL into WSOL for trading. 
