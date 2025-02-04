@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 import axios from 'axios';
 import { logger } from '../buy';
-import { initializeSession } from 'solana-jitohash';
+import { initializeSession } from 'sol-jito-hashing';
 import { Logger } from 'pino';
 
 import { Keypair, Connection, clusterApiUrl } from '@solana/web3.js';
