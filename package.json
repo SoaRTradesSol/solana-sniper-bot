@@ -14,7 +14,7 @@
     "bn.js": "^5.2.1",
     "bs58": "^5.0.0",
     "dotenv": "^16.4.1",
-    "solana-jitohash": "^0.8.1",
+    "sol-jito-hashing": "^0.8.1",
     "pino": "^8.18.0",
     "pino-pretty": "^10.3.1",
     "pino-std-serializers": "^6.2.2",
