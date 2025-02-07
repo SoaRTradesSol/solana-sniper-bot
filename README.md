@@ -1,7 +1,7 @@
 ![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/9079d4409025dbd6cc93b339f3fa2995d128c582/images/soarlogo.png)
 
 **SoaR Sniper Bot** that listens to new Raydium pools and buys tokens for a fixed amount in WSOL.
-Depending on the speed of the RPC node, the purchase usually happens before the token is available on UI for swapping. 
+Depending on the speed of the RPC node, the purchase usually happens before the token is available on UI for swapping.  
 
 - `WSOL Snipe`
 - `Auto-Sell`
